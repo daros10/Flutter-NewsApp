@@ -1,6 +1,11 @@
-# Flutter News APp
+# Flutter News App
 
 The app allow to see news with the use of News-API and Provider.
+
+<p float="left">
+<img src="https://github.com/daros10/Flutter-NewsApp/blob/master/screenshots/1.png" width="280" height="500">
+<img src="https://github.com/daros10/Flutter-NewsApp/blob/master/screenshots/1.png" width="280" height="500">
+</p>
 
 ## Getting Started
 
