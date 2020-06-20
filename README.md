@@ -1,6 +1,6 @@
-# newsapp
+# Flutter News APp
 
-A new Flutter project.
+The app allow to see news with the use of News-API and Provider.
 
 ## Getting Started
 
